@@ -1,3 +1,4 @@
+
 # Student and College Management System
 
 **Name:** Atharva Kanojia  
@@ -55,3 +56,4 @@ Dashboard runs on `http://localhost:5173`.
 - **Delete Records:** Inline deletion with two-step confirmation safeguards.
 - **Data Integrity:** Graceful handling of foreign key restrictions and unique constraint errors.
 - **Search:** Instant multi-column filtering.
+
