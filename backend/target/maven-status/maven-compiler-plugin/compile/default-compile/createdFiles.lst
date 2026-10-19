@@ -1,0 +1,6 @@
+edu\campus\registry\App.class
+edu\campus\registry\Schema$Field.class
+edu\campus\registry\Schema$Table.class
+edu\campus\registry\App$ApiError.class
+edu\campus\registry\Schema.class
+edu\campus\registry\Schema$Column.class
